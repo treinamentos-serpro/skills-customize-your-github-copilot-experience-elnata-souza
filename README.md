@@ -6,7 +6,7 @@ Configure instruções personalizadas para orientar o GitHub Copilot sobre o con
 
 ## 📝 Tarefas
 
-Lista de tarefas para executar
+Tarefas para executar
 
 ### 🛠️ Criar Instruções Gerais do Projeto
 
