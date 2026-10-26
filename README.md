@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Configure instruções personalizadas para orientar o GitHub Copilot sobre o contexto deste projeto e os padrões esperados ao criar ou editar tarefas em Markdown.
+Configure instruções personalizadas para orientar o GitHub Copilot sobre o contexto deste projeto e os padrões esperados ao criar ou editar tarefas em Markdown. (ok)
 
 ## 📝 Tarefas
 
