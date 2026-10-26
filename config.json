@@ -71,6 +71,19 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-apis",
+      "title": "Testing FastAPI APIs",
+      "description": "Practice beginner automated tests for FastAPI routes using pytest and TestClient.",
+      "path": "assignments/testing-fastapi-apis",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
