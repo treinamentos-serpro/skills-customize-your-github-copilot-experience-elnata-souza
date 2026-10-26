@@ -1,12 +1,34 @@
-# Personalize Sua Experiência com o GitHub Copilot
+# 📘 Atividade: Personalize Sua Experiência com o GitHub Copilot
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## 🎯 Objetivo
 
-Hey mindsetcloudit!
+Configure instruções personalizadas para orientar o GitHub Copilot sobre o contexto deste projeto e os padrões esperados ao criar ou editar tarefas em Markdown.
 
-Mona aqui. Terminei de preparar seu exercício. Espero que goste! 💚
+## 📝 Tarefas
 
-Lembre-se, o exercício é no seu ritmo, então sinta-se à vontade para fazer uma pausa! ☕️
+### 🛠️ Criar Instruções Gerais do Projeto
 
-[![](https://img.shields.io/badge/Ir%20para%20o%20Exerc%C3%ADcio-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/treinamentos-serpro/skills-customize-your-github-copilot-experience-elnata-souza/issues/1)
+#### Descrição
+Crie o arquivo `.github/copilot-instructions.md` para apresentar o projeto ao GitHub Copilot e registrar as diretrizes que se aplicam ao trabalho neste repositório.
+
+#### Requisitos
+O arquivo deve:
+
+- Descrever o propósito educacional do projeto.
+- Resumir a estrutura de diretórios e apontar para os recursos principais.
+- Orientar a manutenção de estilos consistentes e de nomes descritivos.
+- Recomendar conteúdo claro, amigável ao aluno e com objetivos de aprendizado definidos.
+
+### 🛠️ Criar Instruções para Tarefas em Markdown
+
+#### Descrição
+Crie `.github/instructions/assignments.instructions.md` para orientar o GitHub Copilot ao criar ou editar arquivos Markdown dentro de `assignments/`.
+
+#### Requisitos
+O arquivo deve:
+
+- Incluir frontmatter com uma descrição e `applyTo: "assignments/**/*.md"`.
+- Orientar o uso de `templates/assignment-template.md` e a criação das tarefas em arquivos `README.md`.
+- Exigir todas as seções do template e manter seus cabeçalhos e emojis exatamente como definidos nele.
+- Orientar descrições claras e requisitos específicos e mensuráveis, sem seções extras não solicitadas.
 
